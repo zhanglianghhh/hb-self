@@ -66,7 +66,8 @@ var date = [
 
 // 种类
 var legend_data = [
-'FIL*(-3)', 'FIL*3', 'LINK*(-3)', 'LINK*3', 'LTC*(-3)', 'LTC*3', 'XRP*(-3)', 'XRP*3'
+'FIL', 'FIL*(-3)', 'FIL*3', 'LINK', 'LINK*(-3)', 'LINK*3', 
+'LTC', 'LTC*(-3)', 'LTC*3', 'XRP', 'XRP*(-3)', 'XRP*3'
 ];
 
 option = {
